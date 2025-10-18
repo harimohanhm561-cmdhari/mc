@@ -53,7 +53,7 @@ EMOJIS = {
     'warning': '⚠️'
 }
 
-TICKET_CHANNEL_ID = 1384085106561515560  # Your ticket channel ID
+TICKET_CHANNEL_ID = 1428777811165974680  # Your ticket channel ID
 
 # Available commands for permission management
 AVAILABLE_COMMANDS = [
